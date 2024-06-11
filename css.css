@@ -1,0 +1,39 @@
+html {
+background-color: #F08080;
+color: #333;
+font-family: Cooper black, sans-serif;
+padding: 1em;
+margin: 0;
+}
+
+h1 {
+color: green;
+font-size: 2em;
+font-family: Cooper black, serif;
+border-bottom: 10px dotted purple;
+text-align: center;
+}
+
+h2 {
+font-size: 1.5em;
+}
+
+.job-title {
+color: #999999;
+font-weight: italic;
+}
+
+a:link,
+a:visited {
+color: pink;
+}
+
+a:hover {
+text-decoration: none;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
